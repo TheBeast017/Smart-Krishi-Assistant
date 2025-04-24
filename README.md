@@ -1,3 +1,1 @@
 Smart-Krishi-Assistant
-
-)
